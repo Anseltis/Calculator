@@ -1,0 +1,9 @@
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\Model.Analyzer.Text.dll
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\Model.Analyzer.Text.pdb
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\Model.Analyzer.dll
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\nunit.framework.dll
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\Model.Analyzer.pdb
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\bin\Debug\nunit.framework.xml
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\obj\Debug\Model.Analyzer.Text.csprojResolveAssemblyReference.cache
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\obj\Debug\Model.Analyzer.Text.dll
+C:\Users\Anseltis\Documents\Visual Studio 2015\Projects\OnlineCalculator\Model.Analyzer.Text\obj\Debug\Model.Analyzer.Text.pdb
